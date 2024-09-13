@@ -2,6 +2,12 @@
 
 Logging support including log creation, formatting, and managing handlers.
 
+| | |
+| --- | --- |
+| Testing | [![CI - Test](https://github.com/topshelfsoftware/python-logging/actions/workflows/unit-tests.yaml/badge.svg)](https://github.com/topshelfsoftware/python-logging/actions/workflows/unit-tests.yaml) [![codecov](https://codecov.io/gh/topshelfsoftware/python-logging/graph/badge.svg?token=M1NTOTK4OE)](https://codecov.io/gh/topshelfsoftware/python-logging) |
+| Package | [![Build Status](https://github.com/topshelfsoftware/python-logging/actions/workflows/build.yaml/badge.svg)](https://github.com/topshelfsoftware/python-logging/actions/workflows/build.yaml) ![Package Version](https://img.shields.io/badge/latest-v1.0.0-blue) ![Python Versions](https://img.shields.io/badge/python-3.9_%7C_3.10_%7C_3.11_%7C_3.12-blue?logo=python&logoColor=yellow) |
+| Meta | [![License](https://img.shields.io/github/license/topshelfsoftware/python-logging)](https://github.com/topshelfsoftware/python-logging/blob/main/LICENSE) |
+
 ## Getting Started
 
 ### Prerequisites
